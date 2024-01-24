@@ -48,4 +48,4 @@
   - [케이블](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-20-%EC%BC%80%EC%9D%B4%EB%B8%94)
   - [커넥터](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-21-%EC%BB%A4%EB%84%A5%ED%84%B0)
   - [DHCP](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-dhcp)
-  - [NAT/NAPT](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-nat/napt)
+  - [NAT/NAPT](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-natnapt)
