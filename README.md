@@ -39,13 +39,13 @@
 (2024.01.20)
 
   - [라우터](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-16-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-  - [엑세스포인트](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-17-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-  - [허브](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-18-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-  - [스위치](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-19-%EB%9D%BC%EC%9A%B0%ED%84%B0)
+  - [엑세스포인트](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-17-%EC%97%91%EC%84%B8%EC%8A%A4-%ED%8F%AC%EC%9D%B8%ED%8A%B8)
+  - [허브](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-18-%ED%97%88%EB%B8%8C)
+  - [스위치](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-19-%EC%8A%A4%EC%9C%84%EC%B9%98)
 
 (2024.01.23)
 
-  - [케이블](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-20-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-  - [커넥터](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-21-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-  - [DHCP](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-  - [NAT/NAPT](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-23-%EB%9D%BC%EC%9A%B0%ED%84%B0)
+  - [케이블](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-20-%EC%BC%80%EC%9D%B4%EB%B8%94)
+  - [커넥터](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-21-%EC%BB%A4%EB%84%A5%ED%84%B0)
+  - [DHCP](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-dhcp)
+  - [NAT/NAPT](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-nat/napt)
