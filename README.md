@@ -49,5 +49,5 @@
   - [21 커넥터](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-21-%EC%BB%A4%EB%84%A5%ED%84%B0)
   - [22 DHCP](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-dhcp)
   - [23 NAT/NAPT](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-22-natnapt)
-  - [24 라우팅]
-  - [25 기본 게이트웨이]()
+  - [24 라우팅](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-24-%EB%9D%BC%EC%9A%B0%ED%8C%85)
+  - [25 기본 게이트웨이](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-25-%EA%B8%B0%EB%B3%B8-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4)
