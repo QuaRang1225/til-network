@@ -58,5 +58,10 @@
   - [25 기본 게이트웨이](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-25-%EA%B8%B0%EB%B3%B8-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4)
   - [26 서브넷](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC#chaptor-26-%EC%84%9C%EB%B8%8C%EB%84%B7)
 > 네트워크 종류와 구성
-   - [27 서버-클라이언트구조와 P2P](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A2%85%EB%A5%98%EC%99%80-%EA%B5%AC%EC%84%B1#chaptor-27-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%84%9C%EB%B2%84%ED%98%95%EA%B3%BC-%ED%94%BC%EC%96%B4-%ED%88%AC-%ED%94%BC%EC%96%B4%ED%98%95)
+
+(2024.01.27)
+- [27 서버-클라이언트구조와 P2P](https://github.com/QuaRang1225/TIL-quarang/wiki/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A2%85%EB%A5%98%EC%99%80-%EA%B5%AC%EC%84%B1#chaptor-27-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%84%9C%EB%B2%84%ED%98%95%EA%B3%BC-%ED%94%BC%EC%96%B4-%ED%88%AC-%ED%94%BC%EC%96%B4%ED%98%95)
+- [28 LAN](https://github.com/QuaRang1225/til-network/wiki/03-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A2%85%EB%A5%98%EC%99%80-%EA%B5%AC%EC%84%B1#chapter-28-lan)
+- [29 이더넷](https://github.com/QuaRang1225/til-network/wiki/03-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A2%85%EB%A5%98%EC%99%80-%EA%B5%AC%EC%84%B1#chapter-29-%EC%9D%B4%EB%8D%94%EB%84%B7)
+- [30 무선LAN](https://github.com/QuaRang1225/til-network/wiki/03-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A2%85%EB%A5%98%EC%99%80-%EA%B5%AC%EC%84%B1#chapter-30-%EB%AC%B4%EC%84%A0lan)
 
